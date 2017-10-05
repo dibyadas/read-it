@@ -3,7 +3,7 @@
 Anxious if your email has been read by the receiver?  
 Get hold of this Chrome extension and recieve pings whenever someone opens your mail! :smile:
 
-# Requirements
+## Requirements
 * Python 3
 * Flask
 
