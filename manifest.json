@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Read-It",
+  "version": "0.1",
+   //"content_security_policy": "default-src 'self' https://2cfef7f0.ngrok.io; img-src 'self' https://2cfef7f0.ngrok.io; script-src 'self'  https://2cfef7f0.ngrok.io;",
+   //"content_security_policy":  "img-src  https://2cfef7f0.ngrok.io;script-src 'self' https://2cfef7f0.ngrok.io; object-src 'self'",
+  //"content_security_policy": "",
+  //"content_security_policy": "script-src 'self'  https://2cfef7f0.ngrok.io",
+  "content_scripts": [
+	  {
+	    "matches": [
+	    	"file:///home/dibya/workspace/read-it/test.html",
+	       "https://mail.google.com/mail/u/0/*"
+	    ],
+	    "js": ["jquery.min.js","inboxsdk.js","content.js"]
+	  }
+	]
+
+}
+
+// "file:///home/dibya/workspace/read-it/test.html",
+
+// appid = sdk_dibyadas_b332aae32c
