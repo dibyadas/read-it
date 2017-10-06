@@ -5,8 +5,9 @@ app = Flask(__name__)
 @app.route('/image')
 def root():
 	print("pinged!!")
+	print(request.headers)
 	# return "opened"
-	return (send_from_directory(directory="file", filename="img.png", as_attachment=False),200,{'Access-Control-Allow-Origin': '*'})
+	return (send_from_directory(directory="file", filename="images.png", as_attachment=False),200,{'Access-Control-Allow-Origin': '*'})
 	
 
 

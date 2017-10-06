@@ -28,7 +28,7 @@ InboxSDK.load(1, 'sdk_dibyadas_b332aae32c').then(function(sdk){
     	var msg = composeView.getBodyElement().innerHTML;
     	composeView.getBodyElement().innerHTML = '';
         // this.insertHTMLIntoBodyAtCursor("<head><meta http-equiv='Content-Security-Policy' content='img-src  https://016ff7a5.ngrok.io/image'> </meta></head>"+"<br>"+msg+"<img src='https://016ff7a5.ngrok.io/image' />");
-        this.insertHTMLIntoBodyAtCursor(msg+"<img crossorigin='anonymous' src='https://d3-force-directed.herokuapp.com/image' />");
+        this.insertHTMLIntoBodyAtCursor(msg+"<img crossorigin='anonymous' src='https://6bfe7dc6.ngrok.io/image?v="+Math.random()+"' />");
   	});
 
 	});
