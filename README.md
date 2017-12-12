@@ -23,8 +23,8 @@ To install this chrome extension. <br>
 ![alt text](https://github.com/nvinayvarma189/read-it/blob/master/img/pic2.png)
 5.Click on load unpacked extension and choose the folder that you had extracted.<br>
 6.Then you can see this<br>
-7.Click on "Allow in incognito" and it is safe. :100: <br>
+7.Click on "Allow in incognito" and it is safe. <br>
 ![alt text](https://github.com/nvinayvarma189/read-it/blob/master/img/pic3.png)<br>
 
 ## Contributing
-If you find an issue regarding this project or if you feel that you can enchance something, then you are free to report an issue in the ![issues page](https://github.com/dibyadas/read-it/issues "issues").Please check if what you feel to be improved is already being implemented or not. Then you can **fork** the repo and you can edit it.After you are done with it, you can now submit a PR(pull request). :grinning: :+1:<br>
+If you find an issue regarding this project or if you feel that you can enchance something, then you are free to report an issue in the ![issues page](https://github.com/dibyadas/read-it/issues "issues").Please check if what you feel to be improved is already being implemented or not. Then you can **fork** the repo and you can edit it.After you are done with it, you can now submit a PR(pull request). :slightly_smiling_face: :+1:<br>
