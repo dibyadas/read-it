@@ -1,5 +1,5 @@
-# Read It  [WIP]
-
+# Read It  [WIP]
+![](/img/Logo.png?raw=true)
 ![forthebadge](http://forthebadge.com/images/badges/made-with-python.svg "Made with Python")
 
 ### **Get read receipts for sent emails**
